@@ -5,7 +5,7 @@
 <a href="https://velog.io/@juliajh" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/juliajh/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliajh&&show_icons=true&theme=vue)
  
 ### 💪 Skills
 #### Platforms & Languages
