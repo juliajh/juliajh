@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Juhee's Github💻&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text="Juhee's Github💻"&fontSize=70)
 
 <h3 align="center">Me🌈</h3>
 <div align="center">
