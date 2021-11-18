@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Juhee's Github💻%20render&fontSize=70)
 
 <h3 align="center">Me🌈</h3>
 <div align="center">
