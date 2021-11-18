@@ -1,14 +1,12 @@
 
-### ME😀
-<div align=center>
+<h3 align="center">ME😀</h3>
+<div align="center">
 <a href="https://www.instagram.com/itzjuhee_99/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@juliajh" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliajh&&show_icons=true&theme=vue)
- 
-### 💪 Skills
-#### Platforms & Languages
+<h3 align="center">I've Used</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
@@ -23,11 +21,4 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
-#### Tools
-<p>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliajh&&show_icons=true&theme=vue)
