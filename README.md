@@ -18,6 +18,6 @@
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=black"/>
 </div>
 
-<div align="center">
+<p align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliajh&&show_icons=true&theme=vue)
-</div>
+</p>
