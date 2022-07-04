@@ -1,7 +1,6 @@
 
 <h3 align="center">Me🌈</h3>
 <div align="center">
-  <a href="https://www.instagram.com/itzjuhee_99/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://velog.io/@juliajh" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/juliajuhee222@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
